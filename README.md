@@ -1,6 +1,6 @@
-# 21-1-business-analytics-capstone
+# 21-2-business-analytics-capstone
 
-21-1 비즈니스 애널리틱스 캡스톤 과제
+21-2 비즈니스 애널리틱스 캡스톤 과제
 
 ## HW 1 - 파이썬 스타일 코드 & Github
 
