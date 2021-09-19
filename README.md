@@ -4,11 +4,10 @@
 
 ## HW 1 - 파이썬 스타일 코드 & Github
 
-📁 `hw_1/python_exercise_1.ipynb`
+[hw_1/python_exercise_1.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_1/python_exercise_1.ipynb)
 
-📁 `hw_1/python_exercise_2.ipynb`
+[hw_1/python_exercise_2.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_1/python_exercise_2.ipynb)
 
 ## HW 2 - 소셜 네트워크 분석
 
-📁 `hw_2/social_network_analysis.ipynb`
-
+[hw_2/social_network_analysis.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_2/social_network_analysis.ipynb)
