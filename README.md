@@ -11,3 +11,12 @@
 ## HW 2 - 소셜 네트워크 분석
 
 [hw_2/social_network_analysis.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_2/social_network_analysis.ipynb)
+
+
+
+## HW 3 - 텍스트마이닝과 웹크롤링
+
+[hw_3/text_mining.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_3/text_mining.ipynb)
+
+[hw_3/crawling_exercise.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_3/crawling_exercise.ipynb)
+
