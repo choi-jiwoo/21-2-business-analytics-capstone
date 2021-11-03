@@ -24,6 +24,7 @@
 
 [hw_4/pandas_self_exercise.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_4/pandas_self_exercise.ipynb)
 
-[hw_4/numpy_tutorial.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_4/numpy_tutorial.ipynb)
+[hw_4/numpy.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_4/numpy.ipynb)
 
-[hw_4/pandas_tutorial.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_4/pandas_tutorial.ipynb)
+[hw_4/pandas.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_4/pandas.ipynb)
+
