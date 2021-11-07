@@ -28,3 +28,8 @@
 
 [hw_4/pandas.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_4/pandas.ipynb)
 
+## HW 5 - 텍스트 Classification과 텍스트마이닝2
+
+[hw_5/text_classification_exercise.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_5/text_classification_exercise.ipynb)
+
+[hw_5/keras_RNN_exercise.ipynb](https://github.com/cho2ji/21-2-business-analytics-capstone/blob/master/hw_5/keras_RNN_exercise.ipynb)
